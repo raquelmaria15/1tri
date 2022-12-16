@@ -1,1 +1,30 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charsert ='utf-8'>
+    <meta http - equiv='x-ua-compatible'content='ie=edge'
+    <title>TITULO DA ABA</title>
+    <meta name = 'viewport'content ='width=devic-width,initial-scale=1'>
+    <link rel ='stylesheet' type ='text/css' media ='screen' href='style.css'>
+    <script src ='main.js'></script>
+    </head>
+    <body>
+        <header><p><img id='TITULOIMAGEM' scr ='download.jpeg'alt='clinica de estetica'></P>
+        </header>
+        <main>
+        <h1>clinica de estetica e curso</h1>
+        <div class="PRIMEIROPARAGRAFO">
+        <h3>na clinica temos limpeza de pele, depilação a laser, desinger de sobrancelha e maquiagem</h3>
+        <p><i><b>'Ja no curso você aprende a fazer tudo isso, e com 5 semanas de curso ganha certificado. Trazer os materiais da sua casa caso queira fazer o curso</b></i></p>
+        <ul id="lista">
+            <li>pincel</li>
+            <li>base da sua cor</li>
+            <li>sombra da cor que deseja</li>
+        <ul>
+        </div>
+            <h1>***</h1>
+        </main>
+        <footer><p><img id="TITULOIMAGEM" SRC='download.jpeg'alt='clinica de estetica'></P>
+    </body>
+    </html>
